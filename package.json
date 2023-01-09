@@ -2,7 +2,7 @@
   "name": "gladys_react_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gladysaw.github.io/gladys_spa_portfolio/",
+  "homepage": "https://gladysaw.github.io/Gladys_spa_portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gladys_spa_portfolio/static/css/main.723b8b51.css",
-    "main.js": "/gladys_spa_portfolio/static/js/main.f9a4b931.js",
-    "static/media/Hourglass_marcel_unsplash.jpg": "/gladys_spa_portfolio/static/media/Hourglass_marcel_unsplash.cef1a718c7a510141043.jpg",
-    "static/media/Profile_rnd_img_Gladys.jpg": "/gladys_spa_portfolio/static/media/Profile_rnd_img_Gladys.4cfeb1f9440adda58d6b.jpg",
-    "static/media/Hourglass_Wegmann_unsplash.jpg": "/gladys_spa_portfolio/static/media/Hourglass_Wegmann_unsplash.21d7e94590415fa9c2f8.jpg",
-    "static/media/Hourglass_Eliason_unsplash.jpg": "/gladys_spa_portfolio/static/media/Hourglass_Eliason_unsplash.3407f03ff7811b29cf56.jpg",
-    "static/media/Hourglass_todov_unsplash.jpg": "/gladys_spa_portfolio/static/media/Hourglass_todov_unsplash.8ae3bd5081705fbd836f.jpg",
-    "static/media/Profile_img_Gladys.jpg": "/gladys_spa_portfolio/static/media/Profile_img_Gladys.7fd08196666b52695757.jpg",
-    "static/media/icons8-github.svg": "/gladys_spa_portfolio/static/media/icons8-github.adb057e9b81365542cdfd2327c007aa2.svg",
-    "static/media/icons8-xing.svg": "/gladys_spa_portfolio/static/media/icons8-xing.1a0508385c3051b36781c1d3122bc03a.svg",
-    "static/media/icons8-linkedin.svg": "/gladys_spa_portfolio/static/media/icons8-linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
-    "index.html": "/gladys_spa_portfolio/index.html",
-    "main.723b8b51.css.map": "/gladys_spa_portfolio/static/css/main.723b8b51.css.map",
-    "main.f9a4b931.js.map": "/gladys_spa_portfolio/static/js/main.f9a4b931.js.map"
+    "main.css": "/Gladys_spa_portfolio/static/css/main.723b8b51.css",
+    "main.js": "/Gladys_spa_portfolio/static/js/main.3868c2ca.js",
+    "static/media/Hourglass_marcel_unsplash.jpg": "/Gladys_spa_portfolio/static/media/Hourglass_marcel_unsplash.cef1a718c7a510141043.jpg",
+    "static/media/Profile_rnd_img_Gladys.jpg": "/Gladys_spa_portfolio/static/media/Profile_rnd_img_Gladys.4cfeb1f9440adda58d6b.jpg",
+    "static/media/Hourglass_Wegmann_unsplash.jpg": "/Gladys_spa_portfolio/static/media/Hourglass_Wegmann_unsplash.21d7e94590415fa9c2f8.jpg",
+    "static/media/Hourglass_Eliason_unsplash.jpg": "/Gladys_spa_portfolio/static/media/Hourglass_Eliason_unsplash.3407f03ff7811b29cf56.jpg",
+    "static/media/Hourglass_todov_unsplash.jpg": "/Gladys_spa_portfolio/static/media/Hourglass_todov_unsplash.8ae3bd5081705fbd836f.jpg",
+    "static/media/Profile_img_Gladys.jpg": "/Gladys_spa_portfolio/static/media/Profile_img_Gladys.7fd08196666b52695757.jpg",
+    "static/media/icons8-github.svg": "/Gladys_spa_portfolio/static/media/icons8-github.adb057e9b81365542cdfd2327c007aa2.svg",
+    "static/media/icons8-xing.svg": "/Gladys_spa_portfolio/static/media/icons8-xing.1a0508385c3051b36781c1d3122bc03a.svg",
+    "static/media/icons8-linkedin.svg": "/Gladys_spa_portfolio/static/media/icons8-linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
+    "index.html": "/Gladys_spa_portfolio/index.html",
+    "main.723b8b51.css.map": "/Gladys_spa_portfolio/static/css/main.723b8b51.css.map",
+    "main.3868c2ca.js.map": "/Gladys_spa_portfolio/static/js/main.3868c2ca.js.map"
   },
   "entrypoints": [
     "static/css/main.723b8b51.css",
-    "static/js/main.f9a4b931.js"
+    "static/js/main.3868c2ca.js"
   ]
 }

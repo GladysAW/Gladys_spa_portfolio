@@ -1,0 +1,163 @@
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 0 8rem;
+
+  @media (max-width: 768px) {
+    padding: 0 4rem;
+  }
+}
+.form_section {
+  background: linear-gradient(140deg, #ef40ff, #0accec);
+  padding: 8rem 1rem;
+}
+
+.app_form__button,
+.app_form__control {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  letter-spacing: 1.4px;
+}
+
+.screen {
+  position: relative;
+  background: #3e3e3e;
+  border-radius: 1.5rem;
+
+  &:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 20px;
+    right: 20px;
+    bottom: 0;
+    border-radius: 1.5rem;
+    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.4);
+    z-index: -1;
+  }
+
+  &__body {
+    display: flex;
+
+    &__item {
+      flex: 1;
+      padding: 5rem;
+
+      &.left {
+        display: flex;
+        flex-direction: column;
+      }
+
+      @media screen and (max-width: 600px) {
+        padding: 0;
+      }
+    }
+
+    @media screen and (max-width: 600px) {
+      padding: 2em;
+    }
+  }
+}
+
+.app_title {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  color: #fff;
+  font-size: 2.6rem;
+
+  &:after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: -1rem;
+    width: 2.5rem;
+    height: 0.4rem;
+    background: linear-gradient(90deg, #ef40ff, #0accec);
+  }
+}
+
+.app_contact {
+  margin-top: auto;
+  font-size: 1.2rem;
+  color: #888;
+}
+
+.app_form {
+  &__group {
+    margin-bottom: 1.5rem;
+
+    &.message {
+      margin-top: 4rem;
+    }
+    &.buttons {
+      margin-bottom: 0;
+      text-align: right;
+    }
+  }
+
+  &__control {
+    width: 100%;
+    padding: 1rem 0;
+    background: none;
+    border: none;
+    border-bottom: 1px solid rgb(142, 142, 142);
+    color: #ddd;
+    font-size: 14px;
+    text-transform: uppercase;
+    outline: none;
+    transition: border-color 0.2s;
+
+    &::placeholder {
+      color: rgb(142, 142, 142);
+    }
+
+    &:focus {
+      border-bottom-color: #ddd;
+    }
+  }
+
+  &__button {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.4rem;
+    cursor: pointer;
+    outline: none;
+    padding-left: 2rem;
+
+    &:hover {
+      color: #0accec;
+    }
+  }
+}
+
+/* queries */
+
+@media screen and (max-width: 520px) {
+  .screen__body {
+    flex-direction: column;
+  }
+
+  .screen__body__ item.left {
+    margin-bottom: 3rem;
+  }
+
+  .app_title {
+    flex-direction: row;
+  }
+
+  .app_title span {
+    margin-right: 1.2rem;
+  }
+
+  .app_title:after {
+    display: none;
+  }
+
+  .container {
+    padding: 0 2rem;
+  }
+}

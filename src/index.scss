@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  /* outline: 1px red solid; */
+}
+
+html {
+  font-size: 62.5%;
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  color: rgb(245, 245, 245);
+  font-size: 1.6rem;
+  line-height: 1.6em;
+  font-style: normal;
+}

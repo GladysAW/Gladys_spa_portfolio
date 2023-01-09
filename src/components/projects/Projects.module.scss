@@ -1,0 +1,41 @@
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 0 8rem;
+
+  @media (max-width: 768px) {
+    padding: 0 4rem;
+  }
+
+  @media screen and (max-width: 520px) {
+    padding: 0 2rem;
+  }
+}
+.projects {
+  padding: 12rem 1rem;
+  background: #181b1f;
+
+  h2 {
+    font-size: 3.2rem;
+    margin-bottom: 10rem;
+    line-height: 4rem;
+
+    background: -webkit-linear-gradient(90deg, #f4b4fa, #9ff1fe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+.project_card__container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(40rem, 1fr));
+  gap: 6rem;
+
+  @media screen and (max-width: 900px) {
+    justify-content: center;
+  }
+  @media screen and (max-width: 520px) {
+    grid-template-columns: 1fr;
+    gap: 6rem;
+  }
+}

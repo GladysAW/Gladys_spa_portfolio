@@ -1,6 +1,7 @@
 import React from "react";
 import classes from "./Introduction.module.scss";
 import rndProfilePic from "../assets/Profile_rnd_img_Gladys.jpg";
+import Pdf from "../assets/Gladys_CV_gh.pdf";
 
 const Introduction = () => {
   return (
@@ -18,7 +19,12 @@ const Introduction = () => {
         I'm currently attending a full time web-development course at DCI,
         learning how to become a bug catcher
       </p>
-      <a href="" target="_blank" className={classes.intro__btn} role="button">
+      <a
+        href={Pdf}
+        target="_blank"
+        className={classes.intro__btn}
+        role="button"
+      >
         <span>View my CV</span>
       </a>
     </div>

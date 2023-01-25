@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <section id="Projects" className={classes.projects}>
       <div className={classes.container}>
-        <h2>Pending Projects</h2>
+        <h2>Projects</h2>
         <div className={classes.project_card__container}>
           <ProjectCards />
         </div>

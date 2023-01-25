@@ -17,7 +17,7 @@ const Introduction = () => {
       <p>a web-developer in the making</p>
       <p>
         I'm currently attending a full time web-development course at DCI,
-        learning how to become a bug catcher
+        learning how to code and solve challenges
       </p>
       <a
         href={Pdf}

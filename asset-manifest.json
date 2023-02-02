@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Gladys_spa_portfolio/static/css/main.afb3fad3.css",
-    "main.js": "/Gladys_spa_portfolio/static/js/main.1542ecd7.js",
+    "main.js": "/Gladys_spa_portfolio/static/js/main.069d2b8e.js",
     "static/media/smarties.jpg": "/Gladys_spa_portfolio/static/media/smarties.26cba602d7621085be64.jpg",
     "static/media/Hourglass_marcel_unsplash.jpg": "/Gladys_spa_portfolio/static/media/Hourglass_marcel_unsplash.cef1a718c7a510141043.jpg",
     "static/media/Profile_rnd_img_Gladys.jpg": "/Gladys_spa_portfolio/static/media/Profile_rnd_img_Gladys.4cfeb1f9440adda58d6b.jpg",
     "static/media/Hourglass_Wegmann_unsplash.jpg": "/Gladys_spa_portfolio/static/media/Hourglass_Wegmann_unsplash.21d7e94590415fa9c2f8.jpg",
     "static/media/Hourglass_todov_unsplash.jpg": "/Gladys_spa_portfolio/static/media/Hourglass_todov_unsplash.8ae3bd5081705fbd836f.jpg",
     "static/media/Profile_img_Gladys.jpg": "/Gladys_spa_portfolio/static/media/Profile_img_Gladys.7fd08196666b52695757.jpg",
-    "static/media/Gladys_CV_gh.pdf": "/Gladys_spa_portfolio/static/media/Gladys_CV_gh.d20868297dd4a65a1f2c.pdf",
+    "static/media/Gladys_CV_gh.pdf": "/Gladys_spa_portfolio/static/media/Gladys_CV_gh.bd7ad7307885eef0eabc.pdf",
     "static/media/icons8-github.svg": "/Gladys_spa_portfolio/static/media/icons8-github.adb057e9b81365542cdfd2327c007aa2.svg",
     "static/media/icons8-xing.svg": "/Gladys_spa_portfolio/static/media/icons8-xing.1a0508385c3051b36781c1d3122bc03a.svg",
     "static/media/icons8-linkedin.svg": "/Gladys_spa_portfolio/static/media/icons8-linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
     "index.html": "/Gladys_spa_portfolio/index.html",
     "main.afb3fad3.css.map": "/Gladys_spa_portfolio/static/css/main.afb3fad3.css.map",
-    "main.1542ecd7.js.map": "/Gladys_spa_portfolio/static/js/main.1542ecd7.js.map"
+    "main.069d2b8e.js.map": "/Gladys_spa_portfolio/static/js/main.069d2b8e.js.map"
   },
   "entrypoints": [
     "static/css/main.afb3fad3.css",
-    "static/js/main.1542ecd7.js"
+    "static/js/main.069d2b8e.js"
   ]
 }

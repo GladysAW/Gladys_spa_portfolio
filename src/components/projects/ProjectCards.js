@@ -1,14 +1,32 @@
 import React from "react";
 import classes from "./ProjectCards.module.scss";
-import smarties from "../assets/smarties.jpg";
-import Hourglass2 from "../assets/Hourglass_marcel_unsplash.jpg";
-import Hourglass3 from "../assets/Hourglass_todov_unsplash.jpg";
+import smarties from "../assets/smarties_screenshot.png";
+import portfolio_screenshot from "../assets/portfolio_screenshot.png";
+import bp_tracker_screenshot from "../assets/bp_tracker_screenshot.png";
 import Hourglass4 from "../assets/Hourglass_Wegmann_unsplash.jpg";
 
 const ProjectCards = () => {
   const projectsList = [
     {
       key: 1,
+      source: bp_tracker_screenshot,
+      title: "Blood Pressure Tracker",
+      codingLanguage: "React.js | Sass | Express | Node.js | MongoDB",
+      text: "A blood pressure tracker which I created during my online coding course. Built a small database on MongoDB and hosted the web app on Render. To take a look at my backend code, please visit my github page. More features are planned to be implemented",
+      demoLink: "https://blood-pressure-tracker-mern.onrender.com/",
+      codeLink: "https://github.com/GladysAW/blood_pressure_tracker_frontend",
+    },
+    {
+      key: 2,
+      source: portfolio_screenshot,
+      title: "Portfolio Web Page",
+      codingLanguage: "React.js | Sass | npm",
+      text: "It's a single page app portfolio which contains an about me section, a projects section that I update as I learn more and create new websites",
+      demoLink: "https://gladysaw.github.io/Gladys_spa_portfolio/",
+      codeLink: "https://github.com/GladysAW/Gladys_spa_portfolio",
+    },
+    {
+      key: 3,
       source: smarties,
       title: "Smarties Calculator",
       codingLanguage: "React.js | Sass | npm",
@@ -17,28 +35,10 @@ const ProjectCards = () => {
       codeLink: "https://github.com/GladysAW/smarties_calculator",
     },
     {
-      key: 2,
-      source: Hourglass2,
-      title: "Project Title",
-      codingLanguage: "Coding language",
-      text: "About this project..............",
-      demoLink: "pending",
-      codeLink: "",
-    },
-    {
-      key: 3,
-      source: Hourglass3,
-      title: "Project Title",
-      codingLanguage: "Coding language",
-      text: "About this project..............",
-      demoLink: "pending",
-      codeLink: "",
-    },
-    {
       key: 4,
       source: Hourglass4,
-      title: "Project Title",
-      codingLanguage: "Coding language",
+      title: "Project Pending",
+      codingLanguage: "Coding languages",
       text: "About this project..............",
       demoLink: "pending",
       codeLink: "",
@@ -59,10 +59,10 @@ const ProjectCards = () => {
             <h3>{project.codingLanguage}</h3>
             <p>{project.text}</p>
             <div className={classes.linksWrapper}>
-              <a target="_blank" href={project.demoLink}>
+              <a target="_blank" rel="noreferrer" href={project.demoLink}>
                 demo
               </a>
-              <a target="_blank" href={project.codeLink}>
+              <a target="_blank" rel="noreferrer" href={project.codeLink}>
                 code
               </a>
             </div>

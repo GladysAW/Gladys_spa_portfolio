@@ -10,7 +10,7 @@ const Introduction = () => {
         <img
           className={classes.profile__img}
           src={rndProfilePic}
-          alt="vacation image"
+          alt="vacation"
         />
       </div>
       <h1>Hi, I'm Gladys</h1>
@@ -22,6 +22,7 @@ const Introduction = () => {
       <a
         href={Pdf}
         target="_blank"
+        rel="noreferrer"
         className={classes.intro__btn}
         role="button"
       >

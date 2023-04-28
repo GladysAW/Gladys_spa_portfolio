@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Gladys_spa_portfolio/static/css/main.afb3fad3.css",
-    "main.js": "/Gladys_spa_portfolio/static/js/main.dcd3e898.js",
+    "main.css": "/Gladys_spa_portfolio/static/css/main.e18329bd.css",
+    "main.js": "/Gladys_spa_portfolio/static/js/main.27e6779e.js",
     "static/media/smarties_screenshot.png": "/Gladys_spa_portfolio/static/media/smarties_screenshot.4cec06496d7b2c2338d9.png",
     "static/media/Profile_rnd_img_Gladys.jpg": "/Gladys_spa_portfolio/static/media/Profile_rnd_img_Gladys.4cfeb1f9440adda58d6b.jpg",
     "static/media/Hourglass_Wegmann_unsplash.jpg": "/Gladys_spa_portfolio/static/media/Hourglass_Wegmann_unsplash.21d7e94590415fa9c2f8.jpg",
@@ -13,11 +13,11 @@
     "static/media/icons8-xing.svg": "/Gladys_spa_portfolio/static/media/icons8-xing.1a0508385c3051b36781c1d3122bc03a.svg",
     "static/media/icons8-linkedin.svg": "/Gladys_spa_portfolio/static/media/icons8-linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
     "index.html": "/Gladys_spa_portfolio/index.html",
-    "main.afb3fad3.css.map": "/Gladys_spa_portfolio/static/css/main.afb3fad3.css.map",
-    "main.dcd3e898.js.map": "/Gladys_spa_portfolio/static/js/main.dcd3e898.js.map"
+    "main.e18329bd.css.map": "/Gladys_spa_portfolio/static/css/main.e18329bd.css.map",
+    "main.27e6779e.js.map": "/Gladys_spa_portfolio/static/js/main.27e6779e.js.map"
   },
   "entrypoints": [
-    "static/css/main.afb3fad3.css",
-    "static/js/main.dcd3e898.js"
+    "static/css/main.e18329bd.css",
+    "static/js/main.27e6779e.js"
   ]
 }

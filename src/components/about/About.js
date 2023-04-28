@@ -24,13 +24,12 @@ const About = () => {
               9+ years of working in the banking and financial tech sector.
             </p>
             <p>
-              However my interest in technology and my passion to become a
-              developer led me to make a bold switch in my career and pursue
-              programming. So I joined a full-stack web development course and
-              I'm currently spending many hours every day learning to code.
-              Currently I'm really enjoying solving JavaScript challenges and
-              using React.js as a library, which to be honest, I'm finding much
-              more fun than just styling with css!
+              However my interest and my passion for technology led me to
+              pursuing a career in programming. So I joined a full-stack web
+              development course where I learned how to build single page
+              applications using HTML, CSS and JavaScript. Currently, I spend
+              many hours every day staring at code while fixating on making
+              responsive web apps.
             </p>
             <p>
               Long story short: Banking → Fin-Tech Operations → Web Development!

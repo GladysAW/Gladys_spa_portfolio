@@ -14,10 +14,10 @@ const Introduction = () => {
         />
       </div>
       <h1>Hi, I'm Gladys</h1>
-      <p>a web-developer in the making</p>
+      <p className={classes.title}>a web-developer</p>
       <p>
-        I'm currently attending a full time web-development course at DCI,
-        learning how to code and solve challenges
+        I'm ready to take on an entry level role as a frontend web developer. I
+        really enjoy working with UI and building Responsive Web Designs.
       </p>
       <a
         href={Pdf}

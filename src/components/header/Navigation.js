@@ -1,4 +1,3 @@
-import React, { useRef } from "react";
 import classes from "./Navigation.module.scss";
 
 const Navigation = () => {

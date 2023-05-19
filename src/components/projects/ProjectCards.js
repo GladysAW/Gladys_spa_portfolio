@@ -3,12 +3,23 @@ import classes from "./ProjectCards.module.scss";
 import smarties from "../assets/smarties_screenshot.png";
 import portfolio_screenshot from "../assets/portfolio_screenshot.png";
 import bp_tracker_screenshot from "../assets/bp_tracker_screenshot.png";
-import Hourglass4 from "../assets/Hourglass_Wegmann_unsplash.jpg";
+// import Hourglass4 from "../assets/Hourglass_Wegmann_unsplash.jpg";
+import entscape_screenshot from "../assets/entscape_screenshot.png";
 
 const ProjectCards = () => {
   const projectsList = [
     {
       key: 1,
+      source: entscape_screenshot,
+      title: "EntScape",
+      codingLanguage:
+        "React.js | Vite | ESLint | Sass | Express | Node.js | MongoDB",
+      text: "Which is better..the book or the movie? from this age-old debate, the idea for a group final project of my development course was created. Entscape is a collaborative effort of 4 developers (myself included). It is a portal designed for booksworms and cinephines, where they can discover both worlds of entertainment",
+      demoLink: "https://entscape-spa.onrender.com",
+      codeLink: "https://github.com/GladysAW/EntScape-Final-Project",
+    },
+    {
+      key: 2,
       source: bp_tracker_screenshot,
       title: "Blood Pressure Tracker",
       codingLanguage: "React.js | Sass | Express | Node.js | MongoDB",
@@ -17,7 +28,7 @@ const ProjectCards = () => {
       codeLink: "https://github.com/GladysAW/blood_pressure_tracker_frontend",
     },
     {
-      key: 2,
+      key: 3,
       source: portfolio_screenshot,
       title: "Portfolio Web Page",
       codingLanguage: "React.js | Sass | npm",
@@ -26,22 +37,13 @@ const ProjectCards = () => {
       codeLink: "https://github.com/GladysAW/Gladys_spa_portfolio",
     },
     {
-      key: 3,
+      key: 4,
       source: smarties,
       title: "Smarties Calculator",
       codingLanguage: "React.js | Sass | npm",
       text: "A simple but not so simple calculator. It's designed for a child to train their brain on the four math operations: addition, subtraction, division and multiplication.",
       demoLink: "https://gladysaw.github.io/smarties_calculator/",
       codeLink: "https://github.com/GladysAW/smarties_calculator",
-    },
-    {
-      key: 4,
-      source: Hourglass4,
-      title: "Project Pending",
-      codingLanguage: "Coding languages",
-      text: "About this project..............",
-      demoLink: "pending",
-      codeLink: "",
     },
   ];
 

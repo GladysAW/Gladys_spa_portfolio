@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gladys_spa_portfolio/static/css/main.aa35d30c.css",
-    "main.js": "/Gladys_spa_portfolio/static/js/main.0416144f.js",
+    "main.js": "/Gladys_spa_portfolio/static/js/main.bb2342b0.js",
     "static/media/entscape_screenshot.png": "/Gladys_spa_portfolio/static/media/entscape_screenshot.6c891285e9f1950a48d0.png",
     "static/media/smarties_screenshot.png": "/Gladys_spa_portfolio/static/media/smarties_screenshot.4cec06496d7b2c2338d9.png",
     "static/media/Profile_rnd_img_Gladys.jpg": "/Gladys_spa_portfolio/static/media/Profile_rnd_img_Gladys.4cfeb1f9440adda58d6b.jpg",
@@ -14,10 +14,10 @@
     "static/media/icons8-linkedin.svg": "/Gladys_spa_portfolio/static/media/icons8-linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
     "index.html": "/Gladys_spa_portfolio/index.html",
     "main.aa35d30c.css.map": "/Gladys_spa_portfolio/static/css/main.aa35d30c.css.map",
-    "main.0416144f.js.map": "/Gladys_spa_portfolio/static/js/main.0416144f.js.map"
+    "main.bb2342b0.js.map": "/Gladys_spa_portfolio/static/js/main.bb2342b0.js.map"
   },
   "entrypoints": [
     "static/css/main.aa35d30c.css",
-    "static/js/main.0416144f.js"
+    "static/js/main.bb2342b0.js"
   ]
 }
